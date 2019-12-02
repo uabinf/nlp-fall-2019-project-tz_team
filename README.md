@@ -9,10 +9,11 @@ Our goal is to build a predictive model which will determine whether a text mess
 ## Motivation
 Nowadays we get a lot of junk sms messages, which we prefer to divide into "ham" or "spam".
 
-## Statistics
+## Dataset
 
 ![Image of coverss](https://github.com/uabinf/nlp-fall-2019-project-tz_team/blob/master/images/scr1.png)
 ![Image of coverss](https://github.com/uabinf/nlp-fall-2019-project-tz_team/blob/master/images/scr2.png)
+## Statistics
 ![Image of coverss](https://github.com/uabinf/nlp-fall-2019-project-tz_team/blob/master/images/scr3.png)
 
 
