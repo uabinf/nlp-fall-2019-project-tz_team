@@ -1,15 +1,20 @@
 # SMS Spam Detection System
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+We will be using the SMS Spam Collection Dataset which tags 5,574 text messages based on whether they are “spam” or “ham”.
+Our goal is to build a predictive model which will determine whether a text message is spam or ham.
 
 ## Authors
 
 ### Temirlan Ismukhanov, Zhandos Sembay
 
-## Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+## Motivation
+Nowadays we get a lot of junk sms messages, which we prefer to divide into "ham" or "spam".
 
 ## Installation
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+1.Import Libraries
+2.Run the Code
 
+## Statistics
+
+![Image of coverss](https://github.com/uabinf/nlp-fall-2019-project-tz_team/blob/master/images/scr1.png)
 
 
